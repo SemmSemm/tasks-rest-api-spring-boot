@@ -30,9 +30,9 @@ public class AppConfig {
         return new ApiInfo(
                 "Tasks App",
                 "Simple CRUD application for tasks",
-                "1.0.0",
+                "0.0.1-SNAPSHOT",
                 "",
-                new Contact("Semen Lukinykh", "https://github.com/SemmSemm", "sema.lukinyh@gmail.com"),
+                null,
                 "",
                 "",
                 Collections.emptyList()
