@@ -36,3 +36,7 @@ Application implements also API documentation, which you can access by following
 `http://localhost:8080/swagger-ui`
 
 Screenshots of swagger API documentation
+
+![alt text](https://github.com/SemmSemm/tasks-rest-api-spring-boot/blob/master/img/Swagger-API.PNG)
+
+![alt_text](https://github.com/SemmSemm/tasks-rest-api-spring-boot/blob/master/img/SWAGGER-API-REQUEST.PNG)
